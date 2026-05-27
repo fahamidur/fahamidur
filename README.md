@@ -8,6 +8,10 @@ I am a detail-oriented analyst and Python professional specializing in data hand
 - 💼 LinkedIn: [linkedin.com/in/fahamidur](https://linkedin.com/in/fahamidur)
 
 ---
+## ༄｡° Currently working on
+ - Implimenting Linear Algebra stuff from scratch...
+ - Implimenting a small autograd library..
+ - Other ful stuffss....
 
 ## 🛠️ Technical Toolkit
 
